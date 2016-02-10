@@ -1,9 +1,11 @@
----
-title: "Codebook"
-author: "Siqin Cai"
-date: "February 9, 2016"
-output: html_document
----
+
+#Codebook
+
+Author: Siqin Cai
+
+Date:   Feb 9, 2016 
+
+
 This file describes the variables, the data, and any transformations or work that I have performed to clean up the data.
 
 ## variables
