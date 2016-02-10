@@ -12,7 +12,7 @@ subject range: 1 to 30.
 
 ### activity
 | ID |              Name |
-|----+-------------------|
+|----|-------------------|
 |  1 |            WALKING|
 |  2 |   WALKING_UPSTAIRS|
 |  3 | WALKING_DOWNSTAIRS|
@@ -24,7 +24,7 @@ subject range: 1 to 30.
 Extracts only the measurements on the mean and standard deviation from the original data file `UCI HAR Dataset/features.txt`
 
 | Column Number | Feature Name |
-|---------------+--------------|
+|---------------|--------------|
 |   1| tBodyAcc-mean()-X |
 |   2| tBodyAcc-mean()-Y |
 |   3| tBodyAcc-mean()-Z |
